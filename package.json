@@ -11,5 +11,9 @@
   "description": "",
   "bin": {
     "watchit": "script.js"
- }
+  },
+  "dependencies": {
+    "chokidar": "^4.0.3",
+    "lodash.debounce": "^4.0.8"
+  }
 }
